@@ -4,6 +4,13 @@ Open source code of paper: <br>
 Paper: 
 [[Arxiv]](https://arxiv.org/abs/2302.10784)
 
+In this paper, we use inductive logic and disentanglement to separate the compositionality of the building semantic information. By embedding such information into the ML organization with trained ML models for building components and zones, the Component-based machine learning (CBML) framework successfully predicts new building designs’ performance with the following advantages. 
+1. Robustness against sparse, noisy data inputs.
+2. Efficient data utilization from different entities.
+3. Accepting incomplete data with high interpretability and reduced training time.
+4. Reducing difficulties/costs in real-world industry deployment. 
+
+
 ---
 ![image](https://github.com/chenxiachan/Component_based_Machine_Learning/assets/106488602/a928192f-ba2d-47fe-88c6-8a1c6ae1f7f9)
 *Two predictive modeling strategies and the dataset (a) the dataset generated for training/test sets in different building shapes. In this study, we use a box-shape buildings dataset for model training using (b) monolithic ML model and (c) component-based ML model strategies. Both approaches are then validated on test datasets in box-shape, random shapes, and representative buildings.*
@@ -15,7 +22,7 @@ For running the code, please first download the data from:
 
 Run notebook `0_Data_Preprocessing.ipynb`, `1_CBML_Forecasting.ipynb`, and `2_Monolithic_Forecasting.ipynb` in sequential. <be>
 
-Additional python packages required:
+The following additional python packages are required:
 `pip install pandas numpy matplotlib seaborn lightgbm scikit-learn tqdm plotly`
 
 For using the code or data, please cite:<br>
