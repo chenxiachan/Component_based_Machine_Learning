@@ -20,7 +20,7 @@ In this paper, we use inductive logic and disentanglement to separate the compos
 For running the code, please first download the data from:
 [[Mendeley Data]](https://data.mendeley.com/datasets/fctghwx3r9/2)
 
-Run notebook `0_Data_Preprocessing.ipynb`, `1_CBML_Forecasting.ipynb`, and `2_Monolithic_Forecasting.ipynb` in sequential. <be>
+Run notebook `0_Data_Preprocessing.ipynb`, `1_Monolithic_Forecasting.ipynb`, and `2_CBML_Forecasting.ipynb` in sequential. <be>
 
 The following additional python packages are required:
 `pip install pandas numpy matplotlib seaborn lightgbm scikit-learn tqdm plotly`
