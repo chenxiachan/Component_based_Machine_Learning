@@ -27,7 +27,7 @@ The following additional python packages are required:
 
 For using the code or data, please cite:<br>
 
-- *Chen, X., Singh, M.M. and Geyer, P., 2023. Utilizing Domain Knowledge: Robust Machine Learning for Building Energy Prediction with Small, Inconsistent Datasets. arXiv preprint arXiv:2302.10784.*
+- *Chen, X., Singh, M.M. and Geyer, P., 2024. Utilizing domain knowledge: robust machine learning for building energy performance prediction with small, inconsistent datasets. Knowledge-Based Systems, p.111774.*
 - *CHEN, Xia; Singh, Manav Mahan; Geyer, Philipp (2023), “Utilizing domain knowledge: robust machine learning for building energy performance prediction with small, inconsistent datasets”, Mendeley Data, V2, doi: 10.17632/fctghwx3r9.2*
 
 
