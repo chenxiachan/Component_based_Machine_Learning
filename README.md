@@ -2,6 +2,7 @@
 Open source code of paper: <br>
 *Utilizing Domain Knowledge: Robust Machine Learning for Building Energy Prediction with Small, Inconsistent Datasets*<br>
 Paper: 
+[[Online]](https://www.sciencedirect.com/science/article/pii/S095070512400409X)
 [[Arxiv]](https://arxiv.org/abs/2302.10784)
 
 In this paper, we use inductive logic and disentanglement to separate the compositionality of the building semantic information. By embedding such information into the ML organization with trained ML models for building components and zones, the Component-based machine learning (CBML) framework successfully predicts new building designs’ performance with the following advantages. 
